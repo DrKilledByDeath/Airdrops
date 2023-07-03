@@ -4,7 +4,7 @@ To get started, you will need access to the types files for the loot and the pro
 
 01 Collect all the item names from the types files and put them into an open notepad doc.
 
-02 Open the KOTH profile doc in a separate window or IDE app.
+02 Open the airdrop profile doc in a separate window or IDE app.
 
 03 Replace the existing loot names with those you have collected in your list being sure to not change any of the formatting. ONLY replace the items name!
 
